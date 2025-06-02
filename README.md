@@ -1,7 +1,7 @@
 # Food Classification Algorithm
 
 ## Description
-Provides the name of a given image of food (currently 101 classes)
+Provides the name of a given image of food. Currently the model has been trained to identify 101 classes of food, the names of which can be found in class_names.txt
 
 ## Usage 
 
